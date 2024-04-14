@@ -15,7 +15,7 @@
 
 $icon-font-path:    "../../webjars/bootstrap/fonts/";
 
-$spring-green:      #6db33f;
+$spring-green:      #00FF00;
 $spring-dark-green: #5fa134;
 $spring-brown:      #34302D;
 $spring-grey:       #838789;
@@ -180,7 +180,7 @@ table td.action-column {
 }
 
 .container-details-table th {
-  background-color: lighten($spring-brown, 3%);
+  background-color: #00FF00;
   color: $spring-light-grey;
 }
 
